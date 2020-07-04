@@ -1,0 +1,549 @@
+GET http://127.0.0.1:8015/shares/exchange/1
+Accept: application/json
+X-Token: eyJhbGciOiJIUzI1NiJ9.eyJpZCI6MSwid3hOaWNrbmFtZSI6IuWkp-ebriIsInJvbGUiOiJhZG1pbiIsImlhdCI6MTU5MzcxMjY5OSwiZXhwIjoxNTk0OTIyMjk5fQ.ZBHBQUrLoHAVGNXSkxkxGjmW6L0_mVOMJqHqEjJ0vYk
+
+<> 2020-07-03T021014.200.json
+
+###
+
+GET http://127.0.0.1:8015/shares/exchange/1
+Accept: application/json
+X-Token: eyJhbGciOiJIUzI1NiJ9.eyJpZCI6MSwid3hOaWNrbmFtZSI6IuWkp-ebriIsInJvbGUiOiJhZG1pbiIsImlhdCI6MTU5MzcxMjY5OSwiZXhwIjoxNTk0OTIyMjk5fQ.ZBHBQUrLoHAVGNXSkxkxGjmW6L0_mVOMJqHqEjJ0vYk
+
+<> 2020-07-03T020913.200.json
+
+###
+
+GET http://127.0.0.1:8015/shares/exchange/1
+Accept: application/json
+X-Token: eyJhbGciOiJIUzI1NiJ9.eyJpZCI6MSwid3hOaWNrbmFtZSI6IuWkp-ebriIsInJvbGUiOiJhZG1pbiIsImlhdCI6MTU5MzcxMjY5OSwiZXhwIjoxNTk0OTIyMjk5fQ.ZBHBQUrLoHAVGNXSkxkxGjmW6L0_mVOMJqHqEjJ0vYk
+
+<> 2020-07-03T020706.200.json
+
+###
+
+GET http://127.0.0.1:8015/shares/exchange/1
+Accept: application/json
+X-Token: eyJhbGciOiJIUzI1NiJ9.eyJpZCI6MSwid3hOaWNrbmFtZSI6IuWkp-ebriIsInJvbGUiOiJhZG1pbiIsImlhdCI6MTU5MzcxMjY5OSwiZXhwIjoxNTk0OTIyMjk5fQ.ZBHBQUrLoHAVGNXSkxkxGjmW6L0_mVOMJqHqEjJ0vYk
+
+<> 2020-07-03T020615.200.json
+
+###
+
+GET http://127.0.0.1:8015/shares/exchange/1
+Accept: application/json
+X-Token: eyJhbGciOiJIUzI1NiJ9.eyJpZCI6MSwid3hOaWNrbmFtZSI6IuWkp-ebriIsInJvbGUiOiJhZG1pbiIsImlhdCI6MTU5MzcxMjY5OSwiZXhwIjoxNTk0OTIyMjk5fQ.ZBHBQUrLoHAVGNXSkxkxGjmW6L0_mVOMJqHqEjJ0vYk
+
+<> 2020-07-03T020346.200.json
+
+###
+
+GET http://127.0.0.1:8015/shares/exchange/1
+Accept: application/json
+X-Token: eyJhbGciOiJIUzI1NiJ9.eyJpZCI6MSwid3hOaWNrbmFtZSI6IuWkp-ebriIsInJvbGUiOiJhZG1pbiIsImlhdCI6MTU5MzcxMjY5OSwiZXhwIjoxNTk0OTIyMjk5fQ.ZBHBQUrLoHAVGNXSkxkxGjmW6L0_mVOMJqHqEjJ0vYk
+
+<> 2020-07-03T020310.200.json
+
+###
+
+GET http://127.0.0.1:8015/shares/exchange/1
+Accept: application/json
+X-Token: eyJhbGciOiJIUzI1NiJ9.eyJpZCI6MSwid3hOaWNrbmFtZSI6IuWkp-ebriIsInJvbGUiOiJhZG1pbiIsImlhdCI6MTU5MzcxMjY5OSwiZXhwIjoxNTk0OTIyMjk5fQ.ZBHBQUrLoHAVGNXSkxkxGjmW6L0_mVOMJqHqEjJ0vYk
+
+<> 2020-07-03T015909.200.json
+
+###
+
+GET http://127.0.0.1:8040/shares/1
+Accept: application/json
+X-Token: eyJhbGciOiJIUzI1NiJ9.eyJpZCI6MSwid3hOaWNrbmFtZSI6IuWkp-ebriIsInJvbGUiOiJ1c2VyIiwiaWF0IjoxNTkzNTI3MDQ4LCJleHAiOjE1OTQ3MzY2NDh9.tmFshAysB7HHFc5Sz9Fb5pzHRsoCYg8QBOslDU1KsZg
+
+<> 2020-07-02T064428.200.json
+
+###
+
+GET http://127.0.0.1:8040/shares/1
+Accept: application/json
+X-Token: eyJhbGciOiJIUzI1NiJ9.eyJpZCI6MSwid3hOaWNrbmFtZSI6IuWkp-ebriIsInJvbGUiOiJ1c2VyIiwiaWF0IjoxNTkzNTI3MDQ4LCJleHAiOjE1OTQ3MzY2NDh9.tmFshAysB7HHFc5Sz9Fb5pzHRsoCYg8QBOslDU1KsZg
+
+<> 2020-07-02T064420.200.json
+
+###
+
+GET http://127.0.0.1:8040/shares/1
+Accept: application/json
+X-Token: 1yJhbGciOiJIUzI1NiJ9.eyJpZCI6MSwid3hOaWNrbmFtZSI6IuWkp-ebriIsInJvbGUiOiJ1c2VyIiwiaWF0IjoxNTkzNTI3MDQ4LCJleHAiOjE1OTQ3MzY2NDh9.tmFshAysB7HHFc5Sz9Fb5pzHRsoCYg8QBOslDU1KsZg
+
+<> 2020-07-02T060914.401.json
+
+###
+
+GET http://127.0.0.1:8040/shares/1
+Accept: application/json
+X-Token: eyJhbGciOiJIUzI1NiJ9.eyJpZCI6MSwid3hOaWNrbmFtZSI6IuWkp-ebriIsInJvbGUiOiJ1c2VyIiwiaWF0IjoxNTkzNTI3MDQ4LCJleHAiOjE1OTQ3MzY2NDh9.tmFshAysB7HHFc5Sz9Fb5pzHRsoCYg8QBOslDU1KsZg
+
+<> 2020-07-02T060853.200.json
+
+###
+
+GET http://127.0.0.1:8015/shares/1
+Accept: application/json
+X-Token: eyJhbGciOiJIUzI1NiJ9.eyJpZCI6MSwid3hOaWNrbmFtZSI6IuWkp-ebriIsInJvbGUiOiJ1c2VyIiwiaWF0IjoxNTkzNTI3MDQ4LCJleHAiOjE1OTQ3MzY2NDh9.tmFshAysB7HHFc5Sz9Fb5pzHRsoCYg8QBOslDU1KsZg
+
+<> 2020-07-02T060837.200.json
+
+###
+
+PUT http://localhost:8040/admin/shares/audit/2
+Content-Type: application/json
+Accept: application/json
+X-Token: eyJhbGciOiJIUzI1NiJ9.eyJpZCI6MTAsInd4Tmlja25hbWUiOiLlvIDmupDlvIDlj5HogIUiLCJyb2xlIjoiYWRtaW4iLCJpYXQiOjE1OTM2MDM4MjAsImV4cCI6MTU5NDgxMzQyMH0.wHZpMBq-Lexecw-KjZReoFB2c50TJax8MXCXH1rUGws
+
+{
+"auditStatusEnum": "PASS",
+"reason": "优秀"
+}
+
+<> 2020-07-01T074420.200.json
+
+###
+
+PUT http://localhost:8040/admin/shares/audit/2
+Content-Type: application/json
+Accept: application/json
+X-Token: eyJhbGciOiJIUzI1NiJ9.eyJpZCI6MTAsInd4Tmlja25hbWUiOiLlvIDmupDlvIDlj5HogIUiLCJyb2xlIjoidXNlciIsImlhdCI6MTU5MzYwMzM1NiwiZXhwIjoxNTk0ODEyOTU2fQ.5-lvz380ilhu6p827_HWK53fKyHtVIOjkXpd02VRvjI
+
+{
+"auditStatusEnum": "PASS",
+"reason": "优秀"
+}
+
+<> 2020-07-01T074203.401.json
+
+###
+
+PUT http://localhost:8040/admin/shares/audit/2
+Content-Type: application/json
+Accept: application/json
+X-Token: eyJhbGciOiJIUzI1NiJ9.eyJpZCI6MTAsInd4Tmlja25hbWUiOiLlvIDmupDlvIDlj5HogIUiLCJyb2xlIjoidXNlciIsImlhdCI6MTU5MzYwMzM1NiwiZXhwIjoxNTk0ODEyOTU2fQ.5-lvz380ilhu6p827_HWK53fKyHtVIOjkXpd02VRvjI
+
+{
+"auditStatusEnum": "PASS",
+"reason": "优秀"
+}
+
+<> 2020-07-01T074119.401.json
+
+###
+
+PUT http://localhost:8015/admin/shares/audit/1
+Content-Type: application/json
+Accept: application/json
+X-Token: eyJhbGciOiJIUzI1NiJ9.eyJpZCI6MSwid3hOaWNrbmFtZSI6IuWkp-ebriIsInJvbGUiOiJhZG1pbiIsImlhdCI6MTU5MzU5Nzk1NSwiZXhwIjoxNTk0ODA3NTU1fQ.N4a2t6q2Q_uKzh-7uzYYNgLImGYwTrLuJWAEO_8q5cw
+
+{
+"auditStatusEnum": "PASS",
+"reason": "这是一个优秀的资源"
+}
+
+<> 2020-07-01T063611.500.json
+
+###
+
+PUT http://localhost:8015/admin/shares/audit/1
+Content-Type: application/json
+Accept: application/json
+X-Token: eyJhbGciOiJIUzI1NiJ9.eyJpZCI6MSwid3hOaWNrbmFtZSI6IuWkp-ebriIsInJvbGUiOiJhZG1pbiIsImlhdCI6MTU5MzU5Nzk1NSwiZXhwIjoxNTk0ODA3NTU1fQ.N4a2t6q2Q_uKzh-7uzYYNgLImGYwTrLuJWAEO_8q5cw
+
+{
+"auditStatusEnum": "PASS",
+"reason": "这是一个优秀的资源"
+}
+
+<> 2020-07-01T063128.500.json
+
+###
+
+PUT http://localhost:8015/admin/shares/audit/1
+Content-Type: application/json
+Accept: application/json
+X-Token: eyJhbGciOiJIUzI1NiJ9.eyJpZCI6MSwid3hOaWNrbmFtZSI6IuWkp-ebriIsInJvbGUiOiJhZG1pbiIsImlhdCI6MTU5MzU5Nzk1NSwiZXhwIjoxNTk0ODA3NTU1fQ.N4a2t6q2Q_uKzh-7uzYYNgLImGYwTrLuJWAEO_8q5cw
+
+{
+"auditStatusEnum": "PASS",
+"reason": "这是一个优秀的资源"
+}
+
+<> 2020-07-01T062519.500.json
+
+###
+
+PUT http://localhost:8015/admin/shares/audit/1
+Content-Type: application/json
+Accept: application/json
+X-Token: eyJhbGciOiJIUzI1NiJ9.eyJpZCI6MSwid3hOaWNrbmFtZSI6IuWkp-ebriIsInJvbGUiOiJhZG1pbiIsImlhdCI6MTU5MzU5Nzk1NSwiZXhwIjoxNTk0ODA3NTU1fQ.N4a2t6q2Q_uKzh-7uzYYNgLImGYwTrLuJWAEO_8q5cw
+
+{
+"auditStatusEnum": "PASS",
+"reason": "这是一个优秀的资源"
+}
+
+<> 2020-07-01T062453.500.json
+
+###
+
+PUT http://localhost:8015/admin/shares/audit/1
+Content-Type: application/json
+Accept: application/json
+X-Token: eyJhbGciOiJIUzI1NiJ9.eyJpZCI6MSwid3hOaWNrbmFtZSI6IuWkp-ebriIsInJvbGUiOiJhZG1pbiIsImlhdCI6MTU5MzU5Nzk1NSwiZXhwIjoxNTk0ODA3NTU1fQ.N4a2t6q2Q_uKzh-7uzYYNgLImGYwTrLuJWAEO_8q5cw
+
+{
+"auditStatusEnum": "PASS",
+"reason": "这是一个优秀的资源"
+}
+
+<> 2020-07-01T062427.500.json
+
+###
+
+PUT http://localhost:8015/admin/shares/audit/1
+Content-Type: application/json
+Accept: application/json
+X-Token: eyJhbGciOiJIUzI1NiJ9.eyJpZCI6MSwid3hOaWNrbmFtZSI6IuWkp-ebriIsInJvbGUiOiJhZG1pbiIsImlhdCI6MTU5MzU5Nzk1NSwiZXhwIjoxNTk0ODA3NTU1fQ.N4a2t6q2Q_uKzh-7uzYYNgLImGYwTrLuJWAEO_8q5cw
+
+{
+"auditStatusEnum": "PASS",
+"reason": "这是一个优秀的资源"
+}
+
+<> 2020-07-01T062334.500.json
+
+###
+
+PUT http://localhost:8015/admin/shares/audit/1
+Content-Type: application/json
+Accept: application/json
+X-Token: eyJhbGciOiJIUzI1NiJ9.eyJpZCI6MSwid3hOaWNrbmFtZSI6IuWkp-ebriIsInJvbGUiOiJhZG1pbiIsImlhdCI6MTU5MzU5Nzk1NSwiZXhwIjoxNTk0ODA3NTU1fQ.N4a2t6q2Q_uKzh-7uzYYNgLImGYwTrLuJWAEO_8q5cw
+
+{
+"auditStatusEnum": "PASS",
+"reason": "这是一个优秀的资源"
+}
+
+<> 2020-07-01T061259.401.json
+
+###
+
+PUT http://localhost:8015/admin/shares/audit/1
+Content-Type: application/json
+Accept: application/json
+X-Token: eyJhbGciOiJIUzI1NiJ9.eyJpZCI6MSwid3hOaWNrbmFtZSI6IuWkp-ebriIsInJvbGUiOiJhZG1pbiIsImlhdCI6MTU5MzU5Nzk1NSwiZXhwIjoxNTk0ODA3NTU1fQ.N4a2t6q2Q_uKzh-7uzYYNgLImGYwTrLuJWAEO_8q5cw
+
+{
+"auditStatusEnum": "PASS",
+"reason": "这是一个优秀的资源"
+}
+
+<> 2020-07-01T061108.401.json
+
+###
+
+PUT http://localhost:8015/admin/shares/audit/1
+Content-Type: application/json
+Accept: application/json
+X-Token: eyJhbGciOiJIUzI1NiJ9.eyJpZCI6MSwid3hOaWNrbmFtZSI6IuWkp-ebriIsInJvbGUiOiJhZG1pbiIsImlhdCI6MTU5MzU5Nzk1NSwiZXhwIjoxNTk0ODA3NTU1fQ.N4a2t6q2Q_uKzh-7uzYYNgLImGYwTrLuJWAEO_8q5cw
+
+{
+"auditStatusEnum": "PASS",
+"reason": "这是一个优秀的资源"
+}
+
+<> 2020-07-01T060954.401.json
+
+###
+
+PUT http://localhost:8015/admin/shares/audit/1
+Content-Type: application/json
+Accept: application/json
+X-Token: eyJhbGciOiJIUzI1NiJ9.eyJpZCI6MSwid3hOaWNrbmFtZSI6IuWkp-ebriIsInJvbGUiOiJhZG1pbiIsImlhdCI6MTU5MzU5Nzk1NSwiZXhwIjoxNTk0ODA3NTU1fQ.N4a2t6q2Q_uKzh-7uzYYNgLImGYwTrLuJWAEO_8q5cw
+
+{
+"auditStatusEnum": "PASS",
+"reason": "这是一个优秀的资源"
+}
+
+<> 2020-07-01T060638.401.json
+
+###
+
+PUT http://localhost:8015/admin/shares/audit/1
+Content-Type: application/json
+Accept: application/json
+X-Token: eyJhbGciOiJIUzI1NiJ9.eyJpZCI6MSwid3hOaWNrbmFtZSI6IuWkp-ebriIsInJvbGUiOiJhZG1pbiIsImlhdCI6MTU5MzU5Nzk1NSwiZXhwIjoxNTk0ODA3NTU1fQ.N4a2t6q2Q_uKzh-7uzYYNgLImGYwTrLuJWAEO_8q5cw
+
+{
+"auditStatusEnum": "PASS",
+"reason": "这是一个优秀的资源"
+}
+
+<> 2020-07-01T060624.200.json
+
+###
+
+PUT http://localhost:8015/admin/shares/audit/1
+Content-Type: application/json
+Accept: application/json
+X-Token: eyJhbGciOiJIUzI1NiJ9.eyJpZCI6MSwid3hOaWNrbmFtZSI6IuWkp-ebriIsInJvbGUiOiJ1c2VyIiwiaWF0IjoxNTkzNTI3MDQ4LCJleHAiOjE1OTQ3MzY2NDh9.tmFshAysB7HHFc5Sz9Fb5pzHRsoCYg8QBOslDU1KsZg
+
+{
+"auditStatusEnum": "PASS",
+"reason": "这是一个优秀的资源"
+}
+
+<> 2020-07-01T060333.401.json
+
+###
+
+PUT http://localhost:8015/admin/shares/audit/1
+Content-Type: application/json
+Accept: application/json
+X-Token: eyJhbGciOiJIUzI1NiJ9.eyJpZCI6MSwid3hOaWNrbmFtZSI6IuWkp-ebriIsInJvbGUiOiJ1c2VyIiwiaWF0IjoxNTkzNTI3MDQ4LCJleHAiOjE1OTQ3MzY2NDh9.tmFshAysB7HHFc5Sz9Fb5pzHRsoCYg8QBOslDU1KsZg
+
+{
+"auditStatusEnum": "PASS",
+"reason": "这是一个优秀的资源"
+}
+
+<> 2020-07-01T060040.401.json
+
+###
+
+PUT http://localhost:8015/admin/shares/audit/1
+Content-Type: application/json
+
+X-Token:eyJhbGciOiJIUzI1NiJ9.eyJpZCI6MSwid3hOaWNrbmFtZSI6IuWkp-ebriIsInJvbGUiOiJ1c2VyIiwiaWF0IjoxNTkzNTI3MDQ4LCJleHAiOjE1OTQ3MzY2NDh9.tmFshAysB7HHFc5Sz9Fb5pzHRsoCYg8QBOslDU1KsZg
+
+
+{
+"auditStatusEnum": "PASS",
+"reason": "这是一个优秀的资源"
+}
+
+<> 2020-07-01T055912.400.json
+
+###
+
+PUT http://localhost:8015/admin/shares/audit/1
+Content-Type: application/json
+Accept: application/json
+X-Token: eyJhbGciOiJIUzI1NiJ9.eyJpZCI6MSwid3hOaWNrbmFtZSI6IuWkp-ebriIsInJvbGUiOiJ1c2VyIiwiaWF0IjoxNTkzNTI3MDQ4LCJleHAiOjE1OTQ3MzY2NDh9.tmFshAysB7HHFc5Sz9Fb5pzHRsoCYg8QBOslDU1KsZg
+
+{
+"auditStatusEnum": "PASS",
+"reason": "这是一个优秀的资源"
+}
+
+<> 2020-07-01T055908.401.json
+
+###
+
+PUT http://localhost:8015/admin/shares/audit/1
+Content-Type: application/json
+Accept: application/json
+X-Token: eyJhbGciOiJIUzI1NiJ9.eyJpZCI6MSwid3hOaWNrbmFtZSI6IuWkp-ebriIsInJvbGUiOiJ1c2VyIiwiaWF0IjoxNTkzNTI3MDQ4LCJleHAiOjE1OTQ3MzY2NDh9.tmFshAysB7HHFc5Sz9Fb5pzHRsoCYg8QBOslDU1KsZg
+
+{
+"auditStatusEnum": "PASS",
+"reason": "这是一个优秀的资源"
+}
+
+<> 2020-07-01T055901.401.json
+
+###
+
+PUT http://localhost:8015/admin/shares/audit/1
+Content-Type: application/json
+Accept: application/json
+X-Token: eyJhbGciOiJIUzI1NiJ9.eyJpZCI6MSwid3hOaWNrbmFtZSI6IuWkp-ebriIsInJvbGUiOiJ1c2VyIiwiaWF0IjoxNTkzNTI3MDQ4LCJleHAiOjE1OTQ3MzY2NDh9.tmFshAysB7HHFc5Sz9Fb5pzHRsoCYg8QBOslDU1KsZg
+
+{
+"auditStatusEnum": "PASS",
+"reason": "这是一个优秀的资源"
+}
+
+<> 2020-07-01T055636.401.json
+
+###
+
+PUT http://localhost:8015/admin/shares/audit/1
+Content-Type: application/json
+Accept: application/json
+X-Token: 1eyJhbGciOiJIUzI1NiJ9.eyJpZCI6MSwid3hOaWNrbmFtZSI6IuWkp-ebriIsInJvbGUiOiJ1c2VyIiwiaWF0IjoxNTkzNTI3MDQ4LCJleHAiOjE1OTQ3MzY2NDh9.tmFshAysB7HHFc5Sz9Fb5pzHRsoCYg8QBOslDU1KsZg
+
+{
+"auditStatusEnum": "PASS",
+"reason": "这是一个优秀的资源"
+}
+
+<> 2020-07-01T055629.401.json
+
+###
+
+PUT http://localhost:8015/admin/shares/audit/1
+Content-Type: application/json
+Accept: application/json
+X-Token: 1eyJhbGciOiJIUzI1NiJ9.eyJpZCI6MSwid3hOaWNrbmFtZSI6IuWkp-ebriIsInJvbGUiOiJ1c2VyIiwiaWF0IjoxNTkzNTI3MDQ4LCJleHAiOjE1OTQ3MzY2NDh9.tmFshAysB7HHFc5Sz9Fb5pzHRsoCYg8QBOslDU1KsZg
+
+{
+"auditStatusEnum": "PASS",
+"reason": "这是一个优秀的资源"
+}
+
+<> 2020-07-01T055617.401.json
+
+###
+
+PUT http://localhost:8015/admin/shares/audit/1
+Content-Type: application/json
+
+{
+"auditStatusEnum": "PASS",
+"reason": "这是一个优秀的资源"
+}
+
+<> 2020-07-01T055441.401.json
+
+###
+
+PUT http://localhost:8015/admin/shares/audit/1
+Content-Type: application/json
+
+{
+"auditStatusEnum": "PASS",
+"reason": "这是一个优秀的资源"
+}
+
+###
+
+PUT http://localhost:8015/admin/shares/audit/1
+Content-Type: application/json
+
+{
+"auditStatusEnum": "PASS",
+"reason": "这是一个优秀的资源"
+}
+
+<> 2020-07-01T055036.401.json
+
+###
+
+PUT http://localhost:8015/admin/shares/audit/1
+Content-Type: application/json
+
+{
+"auditStatusEnum": "PASS",
+"reason": "这是一个优秀的资源"
+}
+
+<> 2020-07-01T054934.401.json
+
+###
+
+PUT http://localhost:8015/admin/shares/audit/1
+Content-Type: application/json
+
+{
+"auditStatusEnum": "PASS",
+"reason": "这是一个优秀的资源"
+}
+
+<> 2020-07-01T054920.401.json
+
+###
+
+PUT http://localhost:8015/admin/shares/audit/1
+Content-Type: application/json
+
+{
+"auditStatusEnum": "PASS",
+"reason": "这是一个优秀的资源"
+}
+
+<> 2020-07-01T054350.500.json
+
+###
+
+PUT http://localhost:8015/admin/shares/audit/1
+Content-Type: application/json
+
+{
+"auditStatusEnum": "PASS",
+"reason": "这是一个优秀的资源"
+}
+
+<> 2020-07-01T054301.500.json
+
+###
+
+PUT http://127.0.0.1:8015/admin/shares/audit/1
+
+<> 2020-07-01T054231.400.json
+
+###
+
+GET http://127.0.0.1:8015/tokenRelay/1
+Accept: application/json
+X-Token: 1eyJhbGciOiJIUzI1NiJ9.eyJpZCI6MSwid3hOaWNrbmFtZSI6IuWkp-ebriIsInJvbGUiOiJ1c2VyIiwiaWF0IjoxNTkzNTI3MDQ4LCJleHAiOjE1OTQ3MzY2NDh9.tmFshAysB7HHFc5Sz9Fb5pzHRsoCYg8QBOslDU1KsZg
+
+<> 2020-07-01T040410.500.json
+
+###
+
+GET http://127.0.0.1:8015/tokenRelay/1
+Accept: application/json
+X-Token: eyJhbGciOiJIUzI1NiJ9.eyJpZCI6MSwid3hOaWNrbmFtZSI6IuWkp-ebriIsInJvbGUiOiJ1c2VyIiwiaWF0IjoxNTkzNTI3MDQ4LCJleHAiOjE1OTQ3MzY2NDh9.tmFshAysB7HHFc5Sz9Fb5pzHRsoCYg8QBOslDU1KsZg
+
+<> 2020-07-01T040401.200.json
+
+###
+
+GET http://127.0.0.1:8015/tokenRelay/1
+Accept: application/json
+X-Token: 1yJhbGciOiJIUzI1NiJ9.eyJpZCI6MSwid3hOaWNrbmFtZSI6IuWkp-ebriIsInJvbGUiOiJ1c2VyIiwiaWF0IjoxNTkzNTI3MDQ4LCJleHAiOjE1OTQ3MzY2NDh9.tmFshAysB7HHFc5Sz9Fb5pzHRsoCYg8QBOslDU1KsZg
+
+<> 2020-07-01T040333.500.json
+
+###
+
+GET http://127.0.0.1:8015/tokenRelay/1
+Accept: application/json
+X-Token: eyJhbGciOiJIUzI1NiJ9.eyJpZCI6MSwid3hOaWNrbmFtZSI6IuWkp-ebriIsInJvbGUiOiJ1c2VyIiwiaWF0IjoxNTkzNTI3MDQ4LCJleHAiOjE1OTQ3MzY2NDh9.tmFshAysB7HHFc5Sz9Fb5pzHRsoCYg8QBOslDU1KsZg
+
+<> 2020-07-01T040323.200.json
+
+###
+
+GET http://127.0.0.1:8015/tokenRelay/1
+
+<> 2020-07-01T040310.500.json
+
+###
+
+GET http://127.0.0.1:8015/tokenRelay/{userId}
+
+###
+
+GET http://localhost:8015/tokenRelay/1
+
+<> 2020-07-01T034623.500.json
+
+###
+
+GET http://localhost:8015/tokenRelay/1
+Accept: application/json
+X-Token: yJhbGciOiJIUzI1NiJ9.eyJpZCI6MSwid3hOaWNrbmFtZSI6IuWkp-ebriIsInJvbGUiOiJ1c2VyIiwiaWF0IjoxNTkzNTI3MDQ4LCJleHAiOjE1OTQ3MzY2NDh9.tmFshAysB7HHFc5Sz9Fb5pzHRsoCYg8QBOslDU1KsZg
+
+<> 2020-07-01T034616.500.json
+
+###
+

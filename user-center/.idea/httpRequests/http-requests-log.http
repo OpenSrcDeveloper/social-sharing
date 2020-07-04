@@ -1,0 +1,232 @@
+GET http://localhost:8082/users/gen-token
+
+<> 2020-07-03T021057.200.txt
+
+###
+
+GET http://localhost:8040/users/gen-token
+
+<> 2020-07-03T021043.503.json
+
+###
+
+GET http://localhost:8040/users/gen-token
+
+<> 2020-07-03T021036.503.json
+
+###
+
+GET http://localhost:8082/users/gen-token
+
+###
+
+GET http://localhost:8082/users/gen-token
+
+###
+
+GET http://localhost:8082/users/gen-token
+
+###
+
+GET http://localhost:8082/users/gen-token
+
+<> 2020-07-03T015820.200.txt
+
+###
+
+GET http://localhost:8082/users/gen-token
+
+<> 2020-07-02T060713.200.txt
+
+###
+
+GET http://localhost:8082/users/1
+Accept: application/json
+X-Token: e1yJhbGciOiJIUzI1NiJ9.eyJpZCI6MSwid3hOaWNrbmFtZSI6IuWkp-ebriIsInJvbGUiOiJ1c2VyIiwiaWF0IjoxNTkzNTI3MDQ4LCJleHAiOjE1OTQ3MzY2NDh9.tmFshAysB7HHFc5Sz9Fb5pzHRsoCYg8QBOslDU1KsZg
+
+<> 2020-07-02T042132.401.json
+
+###
+
+GET http://localhost:8082/users/1
+Accept: application/json
+X-Token: eyJhbGciOiJIUzI1NiJ9.eyJpZCI6MSwid3hOaWNrbmFtZSI6IuWkp-ebriIsInJvbGUiOiJ1c2VyIiwiaWF0IjoxNTkzNTI3MDQ4LCJleHAiOjE1OTQ3MzY2NDh9.tmFshAysB7HHFc5Sz9Fb5pzHRsoCYg8QBOslDU1KsZg
+
+<> 2020-07-02T042045.200.json
+
+###
+
+GET http://localhost:8082/users/1
+Accept: application/json
+X-Token: eyJhbGciOiJIUzI1NiJ9.eyJpZCI6MSwid3hOaWNrbmFtZSI6IuWkp-ebriIsInJvbGUiOiJ1c2VyIiwiaWF0IjoxNTkzNTI3MDQ4LCJleHAiOjE1OTQ3MzY2NDh9.tmFshAysB7HHFc5Sz9Fb5pzHRsoCYg8QBOslDU1KsZg
+
+<> 2020-07-02T042041.200.json
+
+###
+
+GET http://localhost:8082/users/1
+X-Token: eyJhbGciOiJIUzI1NiJ9.eyJpZCI6MSwid3hOaWNrbmFtZSI6IuWkp-ebriIsInJvbGUiOiJhZG1pbiIsImlhdCI6MTU5MzY3Nzk2NSwiZXhwIjoxNTk0ODg3NTY1fQ.wW1jBGTH56apTjT7nsGzLnzLYKmzTBQv8BXfmfFD038
+<> 2020-06-30T081508.500.json:
+
+<> 2020-07-02T041948.400.html
+
+###
+
+GET http://localhost:8082/users/gen-token
+
+<> 2020-07-02T041926.200.txt
+
+###
+
+GET http://localhost:8082/users/gen-token
+
+<> 2020-07-01T060556.200.txt
+
+###
+
+GET http://localhost:8082/users/1
+Accept: application/json
+X-Token: eyJhbGciOiJIUzI1NiJ9.eyJpZCI6MSwid3hOaWNrbmFtZSI6IuWkp-ebriIsInJvbGUiOiJ1c2VyIiwiaWF0IjoxNTkzNTI3MDQ4LCJleHAiOjE1OTQ3MzY2NDh9.tmFshAysB7HHFc5Sz9Fb5pzHRsoCYg8QBOslDU1KsZg
+
+<> 2020-07-01T060029.200.json
+
+###
+
+GET http://localhost:8082/users/1
+Accept: application/json
+X-Token: 1eyJhbGciOiJIUzI1NiJ9.eyJpZCI6MSwid3hOaWNrbmFtZSI6IuWkp-ebriIsInJvbGUiOiJ1c2VyIiwiaWF0IjoxNTkzNTI3MDQ4LCJleHAiOjE1OTQ3MzY2NDh9.tmFshAysB7HHFc5Sz9Fb5pzHRsoCYg8QBOslDU1KsZg
+
+<> 2020-06-30T112137.401.json
+
+###
+
+GET http://localhost:8082/users/1
+Accept: application/json
+X-Token: eyJhbGciOiJIUzI1NiJ9.eyJpZCI6MSwid3hOaWNrbmFtZSI6IuWkp-ebriIsInJvbGUiOiJ1c2VyIiwiaWF0IjoxNTkzNTI3MDQ4LCJleHAiOjE1OTQ3MzY2NDh9.tmFshAysB7HHFc5Sz9Fb5pzHRsoCYg8QBOslDU1KsZg
+
+<> 2020-06-30T112133.200.json
+
+###
+
+GET http://localhost:8082/users/1
+X-Token: eyJhbGciOiJIUzI1NiJ9.eyJpZCI6MSwid3hOaWNrbmFtZSI6IuWkp-ebriIsInJvbGUiOiJ1c2VyIiwiaWF0IjoxNTkzNTE5MjU0LCJleHAiOjE1OTQ3Mjg4NTR9.uPMmrNoXLiyZ7Oq9vhuHx4JA8_xNFk0DpcXT4iOPXek
+<> 2020-06-30T081508.500.json:
+
+<> 2020-06-30T112123.400.html
+
+###
+
+GET http://localhost:8082/users/gen-token
+
+<> 2020-06-30T112119.200.txt
+
+###
+
+GET http://localhost:8082/users/gen-token
+
+<> 2020-06-30T112115.200.txt
+
+###
+
+GET http://localhost:8082/users/1
+Accept: application/json
+X-Token: eyJhbGciOiJIUzI1NiJ9.eyJpZCI6MSwid3hOaWNrbmFtZSI6IuWkp-ebriIsInJvbGUiOiJ1c2VyIiwiaWF0IjoxNTkzNTI3MDQ4LCJleHAiOjE1OTQ3MzY2NDh9.tmFshAysB7HHFc5Sz9Fb5pzHRsoCYg8QBOslDU1KsZg
+
+<> 2020-06-30T102424.200.json
+
+###
+
+GET http://localhost:8082/users/gen-token
+
+<> 2020-06-30T102409.200.txt
+
+###
+
+GET http://localhost:8082/users/1
+Accept: application/json
+X-Token: JhbGciOiJIUzI1NiJ9.eyJpZCI6MSwid3hOaWNrbmFtZSI6IuWkp-ebriIsInJvbGUiOiJ1c2VyIiwiaWF0IjoxNTkzNTE5MjU0LCJleHAiOjE1OTQ3Mjg4NTR9.uPMmrNoXLiyZ7Oq9vhuHx4JA8_xNFk0DpcXT4iOPXek
+
+<> 2020-06-30T102401.401.json
+
+###
+
+GET http://localhost:8082/users/1
+Accept: application/json
+X-Token: yJhbGciOiJIUzI1NiJ9.eyJpZCI6MSwid3hOaWNrbmFtZSI6IuWkp-ebriIsInJvbGUiOiJ1c2VyIiwiaWF0IjoxNTkzNTE5MjU0LCJleHAiOjE1OTQ3Mjg4NTR9.uPMmrNoXLiyZ7Oq9vhuHx4JA8_xNFk0DpcXT4iOPXek
+
+<> 2020-06-30T102356.401.json
+
+###
+
+GET http://localhost:8082/users/1
+Accept: application/json
+X-Token: yJhbGciOiJIUzI1NiJ9.eyJpZCI6MSwid3hOaWNrbmFtZSI6IuWkp-ebriIsInJvbGUiOiJ1c2VyIiwiaWF0IjoxNTkzNTE5MjU0LCJleHAiOjE1OTQ3Mjg4NTR9.uPMmrNoXLiyZ7Oq9vhuHx4JA8_xNFk0DpcXT4iOPXek
+
+<> 2020-06-30T091129.401.json
+
+###
+
+GET http://localhost:8082/users/1
+Accept: application/json
+X-Token: yJhbGciOiJIUzI1NiJ9.eyJpZCI6MSwid3hOaWNrbmFtZSI6IuWkp-ebriIsInJvbGUiOiJ1c2VyIiwiaWF0IjoxNTkzNTE5MjU0LCJleHAiOjE1OTQ3Mjg4NTR9.uPMmrNoXLiyZ7Oq9vhuHx4JA8_xNFk0DpcXT4iOPXek
+
+<> 2020-06-30T083301.500.json
+
+###
+
+GET http://localhost:8082/users/1
+Accept: application/json
+X-Token: yJhbGciOiJIUzI1NiJ9.eyJpZCI6MSwid3hOaWNrbmFtZSI6IuWkp-ebriIsInJvbGUiOiJ1c2VyIiwiaWF0IjoxNTkzNTE5MjU0LCJleHAiOjE1OTQ3Mjg4NTR9.uPMmrNoXLiyZ7Oq9vhuHx4JA8_xNFk0DpcXT4iOPXek
+
+<> 2020-06-30T082627.500.json
+
+###
+
+GET http://localhost:8082/users/1
+Accept: application/json
+X-Token: eyJhbGciOiJIUzI1NiJ9.eyJpZCI6MSwid3hOaWNrbmFtZSI6IuWkp-ebriIsInJvbGUiOiJ1c2VyIiwiaWF0IjoxNTkzNTE5MjU0LCJleHAiOjE1OTQ3Mjg4NTR9.uPMmrNoXLiyZ7Oq9vhuHx4JA8_xNFk0DpcXT4iOPXek
+
+<> 2020-06-30T082614.200.json
+
+###
+
+GET http://localhost:8082/users/1
+X-Token: eyJhbGciOiJIUzI1NiJ9.eyJpZCI6MSwid3hOaWNrbmFtZSI6IuWkp-ebriIsInJvbGUiOiJ1c2VyIiwiaWF0IjoxNTkzNTE5MjU0LCJleHAiOjE1OTQ3Mjg4NTR9.uPMmrNoXLiyZ7Oq9vhuHx4JA8_xNFk0DpcXT4iOPXek
+<> 2020-06-30T081508.500.json:
+
+<> 2020-06-30T082456.400.html
+
+###
+
+GET http://localhost:8082/users/1
+X-Token: eyJhbGciOiJIUzI1NiJ9.eyJpZCI6MSwid3hOaWNrbmFtZSI6IuWkp-ebriIsInJvbGUiOiJ1c2VyIiwiaWF0IjoxNTkzNTE5MjU0LCJleHAiOjE1OTQ3Mjg4NTR9.uPMmrNoXLiyZ7Oq9vhuHx4JA8_xNFk0DpcXT4iOPXek
+<> 2020-06-30T081508.500.json:
+
+<> 2020-06-30T082221.400.html
+
+###
+
+GET http://localhost:8082/users/1
+Access-Control-Request-Headers: X-Token:eyJhbGciOiJIUzI1NiJ9.eyJpZCI6MSwid3hOaWNrbmFtZSI6IuWkp-ebriIsInJvbGUiOiJ1c2VyIiwiaWF0IjoxNTkzNTE5MjU0LCJleHAiOjE1OTQ3Mjg4NTR9.uPMmrNoXLiyZ7Oq9vhuHx4JA8_xNFk0DpcXT4iOPXek
+<> 2020-06-30T081508.500.json:
+
+<> 2020-06-30T082143.400.html
+
+###
+
+GET http://localhost:8082/users/1
+
+<> 2020-06-30T081508.500.json
+
+###
+
+GET http://localhost:8082/users/gen-token
+
+<> 2020-06-30T081415.200.txt
+
+###
+
+GET http://localhost/users/gen-token
+
+###
+
